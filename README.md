@@ -10,6 +10,15 @@ Polimorfismo
 
 O objetivo é modelar personagens com diferentes habilidades, permitindo simular batalhas e comportamentos específicos como combate, magia e voo.
 
+🗡️ Guerreiro
+Herda de Personagem
+Implementa CombateCorpoACorpo
+
+Características:
+
+Ataque físico com espada
+Chance de causar sangramento
+
 🔮 Mago
 Herda de Personagem
 Implementa Magia
