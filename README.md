@@ -17,7 +17,7 @@ Implementa CombateCorpoACorpo
 Características:
 
 Ataque físico com espada
-Chance de causar sangramento
+Chance de causar sangramento.
 
 🔮 Mago
 Herda de Personagem
@@ -25,7 +25,8 @@ Implementa Magia
 
 Características:
 
-Ataques mágicos com alto dano
+Ataques mágicos com alto dano.
+
 🦅 Grifo
 Herda de Personagem
 Implementa CombateCorpoACorpo e Voar
@@ -35,7 +36,8 @@ Características:
 Ataque com garras
 Investida aérea
 Pode voar
-Possui múltiplas habilidades (classe híbrida)
+Possui múltiplas habilidades (classe híbrida).
+
 ⚔️ Sistema de Batalha
 
 O sistema permite:
