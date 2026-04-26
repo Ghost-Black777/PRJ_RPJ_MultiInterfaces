@@ -43,4 +43,4 @@ O sistema permite:
 Combate entre dois personagens
 Execução em turnos
 Cálculo de dano aleatório
-Verificação de vitória
+Verificação de vitória.
